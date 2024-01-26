@@ -65,3 +65,8 @@ button {
   opacity: 1;
   pointer-events: auto;
 }
+
+img {
+  width: 100vw;
+  height: 100vh;
+}
